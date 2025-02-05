@@ -76,15 +76,15 @@ Héritage : Utiliser des classes dérivées pour différents types de livres.
 Polymorphisme : Permettre le traitement des objets de manière uniforme.
 Abstraction : Simplifier l'interface pour les utilisateurs de la bibliothèque.
 * b. Optimisation
-Principes d'optimisations à utiliser :
-Structures de données : Utiliser des structures de données adaptées pour optimiser les recherches et les mises à jour.
-Algorithmes : Comparer différentes méthodes d'implémentation pour trouver les plus efficaces.
-Vous pouvez utiliser d'autres principes d'optimisations si vous en connaissez.
+    **Principes d'optimisations à utiliser :
+      ***Structures de données : Utiliser des structures de données adaptées pour optimiser les recherches et les mises à jour.
+      ***Algorithmes : Comparer différentes méthodes d'implémentation pour trouver les plus efficaces.
+      ***Vous pouvez utiliser d'autres principes d'optimisations si vous en connaissez.
 
 # 4. Utilisation en Ligne de Commande
 L'application doit être entièrement utilisable en ligne de commande avec un menu interactif permettant de naviguer entre les différentes fonctionnalités.
 Par exemple :
-
+```shell
   1. Ajouter un livre
   2. Supprimer un livre
   3. Rechercher un livre
@@ -94,7 +94,7 @@ Par exemple :
   7. Lister les livres
   8. Statistiques
   9. Quitter
-    
+ ```
 # 5. Documentation et Tests
 Documentation :
 
@@ -105,6 +105,7 @@ Tests :
 Implémenter des tests unitaires pour vérifier le bon fonctionnement des méthodes.
 Effectuer des tests d'intégration pour s'assurer que toutes les parties de l'application fonctionnent bien ensemble.
 Critères et livrables
+
 Critères :
 
 Utilisation de Python 3.7.10 ou plus récent.
@@ -116,6 +117,7 @@ Commentaires dans le code.
 Complétude et conformité des fonctionnalités.
 Robustesse et gestion des erreurs.
 Expérience utilisateur en ligne de commande.
+
 Livrables :
 
 Code source complet de l'application.
