@@ -14,11 +14,11 @@ Vous pouvez voir le mentorat de présentation du projet ici.
 # 1. Spécifications Générales
 L'application doit permettre de :
 
-Gérer une collection de livres (ajout, suppression, mise à jour).
-Gérer les utilisateurs de la bibliothèque.
-Emprunter et retourner des livres.
-Rechercher des livres par différents critères.
-Générer des statistiques sur l'utilisation de la bibliothèque (optionnel).
+- Gérer une collection de livres (ajout, suppression, mise à jour).
+- Gérer les utilisateurs de la bibliothèque.
+- Emprunter et retourner des livres.
+- Rechercher des livres par différents critères.
+- Générer des statistiques sur l'utilisation de la bibliothèque (optionnel).
 
 # 2. Détails des Fonctionnalités
 * a. Gestion des Livres
